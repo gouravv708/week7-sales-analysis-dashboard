@@ -74,5 +74,3 @@ Clone the repository
 
 ```bash
 git clone <repository-url>
-
-<img width="952" height="947" alt="Screenshot 2026-07-09 010824" src="https://github.com/user-attachments/assets/5a28d9f1-ef7d-4d2b-abfb-e36b8bb3dedb" />
