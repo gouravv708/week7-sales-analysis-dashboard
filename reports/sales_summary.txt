@@ -1,0 +1,6 @@
+========== SALES ANALYSIS REPORT ==========
+
+Total Orders        : 20
+Total Revenue       : ₹443,867.00
+Average Order Value : ₹22,193.35
+Average Discount    : 8.25%

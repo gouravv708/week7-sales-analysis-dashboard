@@ -1,0 +1,21 @@
+Date,Order_ID,Customer_Name,City,Product,Category,Quantity,Price,Discount,Payment_Mode
+2024-01-05,ORD1001,Amit Sharma,Jaipur,Laptop,Electronics,1,55000,10,Credit Card
+2024-01-08,ORD1002,Riya Gupta,Delhi,Smartphone,Electronics,2,25000,5,UPI
+2024-01-12,ORD1003,Rahul Verma,Mumbai,Headphones,Accessories,3,2000,15,Cash
+2024-01-15,ORD1004,Anjali Singh,Pune,Smartwatch,Accessories,1,8000,8,Debit Card
+2024-01-18,ORD1005,Karan Mehta,Ahmedabad,Tablet,Electronics,2,32000,10,UPI
+2024-02-01,ORD1006,Neha Jain,Jaipur,Keyboard,Accessories,4,1200,5,Cash
+2024-02-05,ORD1007,Ayush Sharma,Delhi,Mouse,Accessories,5,800,0,UPI
+2024-02-10,ORD1008,Pooja Sharma,Indore,Laptop,Electronics,1,58000,12,Credit Card
+2024-02-15,ORD1009,Deepak Verma,Udaipur,Printer,Electronics,1,12000,7,Debit Card
+2024-02-20,ORD1010,Sneha Gupta,Kota,Monitor,Electronics,2,15000,10,UPI
+2024-03-02,ORD1011,Manish Kumar,Jaipur,SSD 1TB,Storage,3,6500,5,Cash
+2024-03-06,ORD1012,Priya Sharma,Delhi,Power Bank,Accessories,4,1500,10,UPI
+2024-03-10,ORD1013,Ankit Sharma,Mumbai,Router,Networking,2,3500,8,Credit Card
+2024-03-15,ORD1014,Sumit Jain,Pune,Speaker,Accessories,3,4500,5,Cash
+2024-03-20,ORD1015,Nikita Gupta,Jaipur,Webcam,Accessories,2,3000,10,Debit Card
+2024-04-01,ORD1016,Rohit Singh,Delhi,Laptop,Electronics,1,60000,15,Credit Card
+2024-04-06,ORD1017,Kavita Sharma,Mumbai,Smartphone,Electronics,2,28000,5,UPI
+2024-04-10,ORD1018,Harsh Meena,Ajmer,Keyboard,Accessories,5,1100,5,Cash
+2024-04-15,ORD1019,Payal Verma,Kota,Monitor,Electronics,1,17000,12,Debit Card
+2024-04-20,ORD1020,Arjun Sharma,Jaipur,Gaming Mouse,Accessories,3,2200,8,UPI
